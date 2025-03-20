@@ -44,6 +44,14 @@ struct ContentView: View {
                 .font(.headline)
                 .fontWeight(.semibold)
             
+            Text("My Love haah")
+                .font(.headline)
+                .fontWeight(.semibold)
+            
+            Text("My Love haah")
+                .font(.headline)
+                .fontWeight(.semibold)
+            
             Button("Click me"){
                 
             }
