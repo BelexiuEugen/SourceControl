@@ -40,7 +40,7 @@ struct ContentView: View {
             Image(systemName: "heart.fill")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("My Love")
+            Text("My Love haah")
                 .font(.headline)
                 .fontWeight(.semibold)
             
