@@ -37,9 +37,12 @@
 import SwiftUI
 
 struct ContentView: View {
+    
+    @State var titleText: String = "There is something in here";
+    
     var body: some View {
         VStack {
-            Image(systemName: "magnifingglasss")
+            Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("My Love haah")
@@ -58,7 +61,7 @@ struct ContentView: View {
                 
             }
             
-            Button("Antoher button"){
+            Button("Subsribe New"){
                 
             }
             
