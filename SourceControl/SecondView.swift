@@ -9,7 +9,7 @@ import SwiftUI
 
 struct SecondView: View {
     var body: some View {
-        Text("There is the text for changing")
+        Text("There is the right text")
         Button("Subscribe now! or you will basically die"){
             
         }
