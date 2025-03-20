@@ -56,7 +56,7 @@ struct ContentView: View {
                 
             }
             
-            Button("Antoher button"){
+            Button("Subsribe New"){
                 
             }
             
