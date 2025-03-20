@@ -13,6 +13,15 @@ struct SecondView: View {
         Button("Subscribe now! or you will basically die"){
             
         }
+        
+        Button("Subscribe now! or you will basically die"){
+            
+        }
+        
+        Button("Subscribe now! or you will basically die"){
+            
+        }
+        
         .onAppear{
             // Add some analitics in here
         }
