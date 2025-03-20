@@ -13,6 +13,9 @@ struct SecondView: View {
         Button("Subscribe now!"){
             
         }
+        .onAppear{
+            // Add some analitics in here
+        }
     }
 }
 
