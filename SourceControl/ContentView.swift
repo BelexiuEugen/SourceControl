@@ -35,6 +35,9 @@
 import SwiftUI
 
 struct ContentView: View {
+    
+    @State var titleText: String = "There is something in here";
+    
     var body: some View {
         VStack {
             Image(systemName: "globe")
