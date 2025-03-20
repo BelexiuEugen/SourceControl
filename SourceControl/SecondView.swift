@@ -9,9 +9,8 @@ import SwiftUI
 
 struct SecondView: View {
     var body: some View {
-        Text("Just some random text here for being straight.")
-        Text("There is another text here for you")
-        Button("Subscribe"){
+        Text("There is the text for changing")
+        Button("Subscribe now!"){
             
         }
     }
