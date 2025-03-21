@@ -44,6 +44,7 @@ struct ContentView: View {
     
     @State var titleText: String = "There is something in here";
     @State var newVariable: String = "There is the name of this staff";
+    @State var thereIsAVariabhle = "HEHEE";
     
     var body: some View {
         VStack {

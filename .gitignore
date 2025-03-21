@@ -1,0 +1,40 @@
+# Xcode
+.DS_Store
+*.xcworkspace/
+xcuserdata/
+*.xcuserstate
+
+# Swift Package Manager
+/.swiftpm
+.build/
+
+# CocoaPods
+/Pods/
+*.lock
+
+# Carthage
+/Carthage/
+
+# Fastlane
+/fastlane/report.xml
+/fastlane/Preview.html
+/fastlane/screenshots/
+/fastlane/test_output/
+
+# Derived Data & Archives
+DerivedData/
+*.xcscmblueprint
+*.xccheckout
+
+# Logs
+*.log
+
+# User-Specific Files
+*.mode1v3
+*.pbxuser
+*.perspectivev3
+*.xcuserstate
+
+# Env & Secrets
+.env
+secrets.xcconfig
