@@ -63,7 +63,7 @@ struct ContentView: View {
                 
             }
             
-            Button("Subsribe New"){
+            Button("Subsribe now, piece of gold"){
                 
             }
             
