@@ -41,6 +41,7 @@ import SwiftUI
 struct ContentView: View {
     
     @State var titleText: String = "There is something in here";
+    @State var newVariable: String = "There is the name of this staff";
     
     var body: some View {
         VStack {
